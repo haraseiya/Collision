@@ -1,0 +1,15 @@
+#pragma once
+#include "Game.h"
+#include "SceneBase.h"
+
+class TestScene : public SceneBase
+{
+public:
+	TestScene();
+	~TestScene();
+
+	SceneBase* update();
+	void       draw();
+
+	class DebugGrid* mGrid;
+};

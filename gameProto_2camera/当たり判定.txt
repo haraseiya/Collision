@@ -1,0 +1,8 @@
+当たり判定の準備
+
+境界球（Bounding Sphere)
+Playerを囲むように大雑把に球をとる
+回転しても変わらないので当たり判定が楽にとれる
+球体の定義：中心点[Vector3 Center]、半径[float ridius]
+2球の衝突条件(c1-c2)の2乗<(r1-r2)の2乗
+AABB(Axis Aligned Bounding Box)→軸、並行、境界、ボックス

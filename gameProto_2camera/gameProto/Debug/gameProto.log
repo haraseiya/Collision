@@ -1,0 +1,25 @@
+﻿  Actor.cpp
+  Animation.cpp
+  BoneTransform.cpp
+  CameraActor.cpp
+  DebugGrid.cpp
+  Game.cpp
+  LookDownCamera.cpp
+  main.cpp
+  Math.cpp
+  Mesh.cpp
+  MeshComponent.cpp
+  PlayerActor.cpp
+  Renderer.cpp
+  Input.cpp
+  Component.cpp
+  Shader.cpp
+  SkeletalMeshComponent.cpp
+  Skeleton.cpp
+  TestScene.cpp
+  Texture.cpp
+  コードを生成中...
+  コンパイル中...
+  VertexArray.cpp
+c:\users\bmt.000\dropbox\2019gameprogramming\3dgameprogramming\gameproto_2camera\gameproto\vertexarray.cpp : fatal error C1041: プログラム データベース 'C:\Users\bmt.000\Dropbox\2019gameprogramming\3DGameProgramming\gameProto_2camera\gameProto\Debug\vc141.pdb' を開けません。複数の CL.EXE が同じ .PDB ファイルに書き込む場合、/FS を使用してください。
+  コードを生成中...
